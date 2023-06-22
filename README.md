@@ -11,6 +11,9 @@ The primary functionality of the application was centered around a shopping cart
 enabling users to view a list of products, search for products, add or remove items from their cart (**CRUD** operations), 
 and proceed with the checkout process.
 
+
+Frontend Repo: https://github.com/lizwxy0501/E-commerce-Frontend
+
 _**Home Page**_
 
 <img width="1011" alt="Home Page" src="https://github.com/lizwxy0501/E-commerce-Backend/assets/30525706/9c126b03-9092-4392-bd31-d948c411fefa">
